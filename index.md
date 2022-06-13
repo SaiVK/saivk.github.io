@@ -14,6 +14,6 @@ CV : [click here](https://drive.google.com/file/d/1VGOpz1ORNXl6kr2ANuYDsfGWpmjRT
 -	PRISM Group, IIT Madras
 
 # Contact
-Email : cs20d408@smail.iitm.ac.in
+Email : <cs20d408@smail.iitm.ac.in>
 
 Address : RISE lab, Department of CSE, IIT Madras, Chennai - 600036, India.
